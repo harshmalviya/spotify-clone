@@ -1,3 +1,4 @@
+import Head from "next/head";
 import { getProviders, signIn } from "next-auth/react";
 import React from "react";
 
