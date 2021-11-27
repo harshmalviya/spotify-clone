@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Spotify</title>
+        <title>Spotify Clone - Listen to music & podcasts</title>
       </Head>
       <div className="bg-black h-screen overflow-hidden">
         <main className="flex">
